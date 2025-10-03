@@ -2,5 +2,5 @@
 Dự án đầu tiên của tôi
 Tên : :La Hữu Tín
 MSSV: 25119163
-Giới thiệu: đây là dự án đầu tiên của tôi
+Giới thiệu: đang sửa dự án
 Ngày Sinh: 12/01/2007
